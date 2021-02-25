@@ -1,0 +1,18 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    width:100%;
+    height:100%;
+    background-image: linear-gradient(to right,#5F4B8BFF,#E69A8DFF);
+}
+.mainDiv{
+    width: 100%;
+    height: 100%;
+    min-height: 625px;
+    background-color: rgba(255,255,255,0.7);
+    border-radius: 7px;
+    box-shadow: 0px 0px 25px rgba(67,67,67,0.7);
+}
